@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\plateman\documents\project1\main.cpp
+	<iostream>
+
+1550924443 source:c:\users\plateman\documents\project1\myclass.cpp
+	<iostream>
+	"MyClass.h"
+
+1550924414 c:\users\plateman\documents\project1\myclass.h
+
+1550948873 source:c:\users\plateman\documents\sololearnc++\06. more on classes\project1\main.cpp
+	<iostream>
+	"MyClass.h"
+
+1550948581 c:\users\plateman\documents\sololearnc++\06. more on classes\project1\myclass.h
+
+1550948721 source:c:\users\plateman\documents\sololearnc++\06. more on classes\project1\myclass.cpp
+	<iostream>
+	"MyClass.h"
+
